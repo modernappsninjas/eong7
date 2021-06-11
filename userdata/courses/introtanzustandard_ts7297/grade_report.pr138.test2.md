@@ -1,0 +1,54 @@
+# Member Grade Report for eong7 for test2  
+   
+Member_Github_Account_Login: eong7  
+Member_Github_Account_ID 26779486  
+Test_Name: test2  
+Test_Date: Fri Jun 11 00:46:02 UTC 2021  
+Course_URL: https://modernappsninja.github.io/introtanzustandard_ts7297/  
+   
+---  
+#### test2 Individual Question Results:  
+Question1: Correct  
+#####  
+Question2: Correct  
+#####  
+Question3: Correct  
+#####  
+Question4: Correct  
+#####  
+Question5: Correct  
+#####  
+Question6: Incorrect  
+#####  
+Question7: Incorrect  
+#####  
+Question8: Incorrect  
+#####  
+Question9: Incorrect  
+#####  
+Question10: Incorrect  
+#####  
+Question11: Incorrect  
+#####  
+Question12: Incorrect  
+#####  
+Question13: Correct  
+#####  
+Question14: Correct  
+#####  
+Question15: Correct  
+#####  
+Question16: Correct  
+#####  
+---  
+#### test2 Summary of Results:  
+test2_Total_Question_Count: 9  
+#####  
+test2_Correct_Response_Count: 9  
+#####  
+test2_Incorrect_Response_Count: 7  
+#####  
+test2_Percent_Correct: 56.00%  
+#####  
+test2_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/eong7/blob/main/static/userdata/courses/introtanzustandard_ts7297/grade_report.pr138.test2.md)"
+##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
